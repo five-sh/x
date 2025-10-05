@@ -2,8 +2,8 @@ import React from 'react';
 
 const Vikas2025 = () => {
     return (
-        <div className='h-screen p-5 w-full bg-gradient-to-b from-[#c71d6f] to-[#d09693]'>
-            <h1 className='text-8xl mb-20 mt-0 ml-10 text-center text-white'>Vikas</h1>
+        <div className='h-screen p-5 w-full bg-gradient-to-b from-[#6a44c1] to-[#4227a4]'>
+            <h1 className='font-league-spartan font-bold text-8xl mb-20 mt-0 ml-10 text-center text-white'>Vikas</h1>
             <div className='flex flex-row'>
             <div className='flex flex-col justify-center items-start w-2/4 gap-3'>
                 <div className='flex flex-row justify-evenly gap-3'>
@@ -19,7 +19,7 @@ const Vikas2025 = () => {
                 </div>
             </div>
             <div className='place-self-center ml-10 justify-self-end w-2/4'>
-                <p className='text-white text-2xl'>
+                <p className='font-league-spartan text-white text-2xl'>
                     Dear Vikas,
                     <br /><br />
                     From day one, you've been the backbone of our coding adventures! Your dedication to perfecting every line of code and your incredible problem-solving skills have saved us countless times from debugging nightmares.

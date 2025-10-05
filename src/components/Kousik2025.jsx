@@ -2,8 +2,8 @@ import React from 'react';
 
 const Kousik2025 = () => {
     return (
-        <div className='h-screen p-5 w-full bg-gradient-to-b from-[#c71d6f] to-[#d09693]'>
-            <h1 className='text-8xl mb-20 mt-0 ml-10 text-center text-white'>Kousik</h1>
+        <div className='h-screen p-5 w-full bg-gradient-to-b from-[#0a0f2c] to-[#791ea7]'>
+            <h1 className='font-league-spartan font-bold text-8xl mb-20 mt-0 ml-10 text-center text-white'>Kousik</h1>
             <div className='flex flex-row'>
             <div className='flex flex-col justify-center items-start w-2/4 gap-3'>
                 <div className='flex flex-row justify-evenly gap-3'>
@@ -19,7 +19,7 @@ const Kousik2025 = () => {
                 </div>
             </div>
             <div className='place-self-center ml-10 justify-self-end w-2/4'>
-                <p className='text-white text-2xl'>
+                <p className='font-league-spartan text-white text-2xl'>
                     Dear Kousik,
                     <br /><br />
                     Where do we even begin with the master of innovation himself? Your ability to think completely outside the box and come up with solutions that nobody else would even imagine has consistently blown our minds. You have this unique gift of seeing possibilities where the rest of us see roadblocks.

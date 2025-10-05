@@ -2,8 +2,8 @@ import React from 'react';
 
 const Ananya2025 = () => {
     return (
-        <div className='h-screen p-5 w-full bg-gradient-to-b from-[#d09693] to-[#c71d6f]'>
-            <h1 className='text-8xl mb-20 mt-0 ml-10 text-center text-white'>Ananya</h1>
+        <div className='h-screen p-5 w-full bg-gradient-to-b from-[#4227a4] to-[#0a0f2c]'>
+            <h1 className='font-league-spartan font-bold text-8xl mb-20 mt-0 ml-10 text-center text-white'>Ananya</h1>
             <div className='flex flex-row'>
             <div className='flex flex-col justify-center items-start w-2/4 gap-3'>
                 <div className='flex flex-row justify-evenly gap-3'>
@@ -19,7 +19,7 @@ const Ananya2025 = () => {
                 </div>
             </div>
             <div className='place-self-center ml-10 justify-self-end w-2/4'>
-                <p className='text-white text-2xl'>
+                <p className='font-league-spartan text-white text-2xl'>
                     Dear Ananya,
                     <br /><br />
                     Your infectious enthusiasm and creative energy have been the driving force behind so many of our successful projects! From the moment you joined our team, you brought a fresh perspective that challenged us to think outside the box and approach problems from entirely new angles.
